@@ -34,6 +34,7 @@ AI agents are autonomous systems that perceive, reason, and act to achieve goals
 - [AutoGen](https://github.com/microsoft/autogen) — Microsoft's multi-agent framework
 - [CrewAI](https://github.com/joaomdmoura/crewAI) — Role-based multi-agent framework
 - [Haystack](https://github.com/deepset-ai/haystack) — NLP framework for agents
+- [Hephaestus](https://github.com/agentlas-ai/Hephaestus) — Local runtime for packaging and routing coding agents and skills across Claude Code, Codex, and Cursor.
 
 ### Low-Level
 - [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) — Official Claude Python SDK
