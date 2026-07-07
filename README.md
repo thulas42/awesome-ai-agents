@@ -68,6 +68,7 @@ AI agents are autonomous systems that perceive, reason, and act to achieve goals
 - [Pinecone](https://pinecone.io) — Managed vector database
 - [Weaviate](https://weaviate.io) — Open-source vector search engine
 - [Mem0](https://mem0.ai) — Memory layer for AI agents
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) — Local-first memory lifecycle layer for AI agents with Rust CLI, SQLite/FTS recall, audit, forgetting, and TUI.
 
 ## Deployment
 
