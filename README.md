@@ -60,6 +60,8 @@ AI agents are autonomous systems that perceive, reason, and act to achieve goals
 - [AutoGen](https://microsoft.github.io/autogen/) — Conversational multi-agent framework
 - [LangGraph](https://langchain-ai.github.io/langgraph/) — Graph-based agent workflows
 - [AgentScope](https://github.com/modelscope/agentscope) — Multi-agent platform
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 
 ## RAG & Memory
 
