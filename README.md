@@ -49,6 +49,7 @@ AI agents are autonomous systems that perceive, reason, and act to achieve goals
 
 ## Tools & Protocols
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local CLI and stdio MCP payments on macOS; signing requires foreground owner approval.
 - [MCP (Model Context Protocol)](https://modelcontextprotocol.io) — Anthropic's open standard for AI tool connectivity
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) — 100+ pre-built tools
 - [Composio](https://composio.dev) — 150+ tool integrations for agents
